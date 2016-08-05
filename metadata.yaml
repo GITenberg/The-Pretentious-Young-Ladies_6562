@@ -1,0 +1,37 @@
+_repo: The-Pretentious-Young-Ladies_6562
+_version: 0.0.1
+alternative_title: Les précieuses ridicules. English
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Moliere
+    - Poquelin, Jean-Baptiste
+    - Poquelin de Molière, Jean Baptiste
+    - Molière, Jean Baptiste Poquelin de
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+description: ''
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Précieuses -- Drama'
+- !lcc 'PQ'
+- !lcsh 'French drama (Comedy) -- Translations into English'
+- !lcsh 'Molière, 1622-1673 -- Translations into English'
+- !lcsh 'Women -- France -- Drama'
+- GITenberg
+title: The Pretentious Young Ladies
+url: http://www.gutenberg.org/ebooks/6562
