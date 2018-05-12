@@ -1,6 +1,9 @@
 _repo: The-Pretentious-Young-Ladies_6562
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Les précieuses ridicules. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Molière
@@ -17,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Moli%C3%A8re
     - http://fr.wikipedia.org/wiki/Moli%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6562#The-Pretentious-Young-Ladies
 gutenberg_bookshelf: One Act Plays
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
